@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+.env
+data
+chromedriver
+data/us_jobposts.csv
+data/us_skills.csv
