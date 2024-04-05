@@ -46,8 +46,10 @@ Outline the methods used in the project, including:
 ## Challenges and Learnings
 
 
-## Future Work
+## 7. Links
+
+Canva Presentation: https://www.canva.com/design/DAF2MnWbo9w/rDOr5A3_XC5ir5Blp95N1w/view?utm_content=DAF2MnWbo9w&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 
-## Acknowledgements
+
 
